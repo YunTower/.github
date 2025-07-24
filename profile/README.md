@@ -14,5 +14,3 @@
 |--|--|
 |[云塔账号通行证](https://account.yuntower.cn/)|云塔统一账号认证平台|
 |[蓝鲸服务器探针](https://github.com/YunTower/BWhaleMonitor)|轻量级服务器探针|
-|[YunTowerSSH](https://github.com/YunTower/YunTowerSSH)|可私有化部署的SSH工具|
-|[FishUi](https://github.com/YunTower/FishUi)|简简单单的Vue3组件库|
