@@ -1,6 +1,6 @@
 <div align=center>
     <h1>YunTower</h1>
-    <p>致力于打造面向个人开发者的高效运维开发工具</p>
+    <p>用技术驱动数字世界的透明与高效</p>
     <p align=center>
         <a href="//www.yuntower.com" target="_blank">🌏 Official Site</a> 
         <a href="mailto:official@yuntower.com">📧 E-Mail</a>
