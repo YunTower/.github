@@ -13,4 +13,4 @@
 |名称|简介|
 |--|--|
 |[云塔账号通行证](https://account.yuntower.cn/)|云塔统一账号认证平台|
-|[蓝鲸服务器探针](https://github.com/YunTower/BWhaleMonitor)|轻量级服务器探针|
+|[云哨服务器探针](https://github.com/YunTower/CloudSentinel)|轻量级服务器探针|
