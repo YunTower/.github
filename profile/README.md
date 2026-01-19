@@ -2,8 +2,8 @@
     <h1>YunTower</h1>
     <p>用技术驱动数字世界的透明与高效</p>
     <p align=center>
-        <a href="//www.yuntower.com" target="_blank">🌏 Official Site</a> 
-        <a href="mailto:official@yuntower.com">📧 E-Mail</a>
+        <a href="//www.yuntower.com" target="_blank">Official Site</a> 
+        <a href="mailto:official@yuntower.com">E-Mail</a>
     </p>
 </div>
 
