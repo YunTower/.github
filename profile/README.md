@@ -1,6 +1,6 @@
 <div align=center>
     <h1>YunTower</h1>
-    <p>用技术驱动数字世界的透明与高效</p>
+    <p>致力于构建可靠的数字基础设施</p>
     <p align=center>
         <a href="//www.yuntower.com" target="_blank">Official Site</a> 
         <a href="mailto:official@yuntower.com">E-Mail</a>
